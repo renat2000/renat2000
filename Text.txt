@@ -1,1 +1,1 @@
-vless://35279724-0a10-4d0d-b0d9-6fc6d86a38bd@77.110.111.18:443?type=tcp&encryption=none&security=reality&pbk=G8atnmczEJPNW9UO6E110PLdZVA0CKojysMxe93VLXk&fp=firefox&sni=google.com&sid=2fb94937d19b&spx=%2F#Germany%E2%84%962-vpnsafebot2
+vless://35279724-0a10-4d0d-b0d9-6fc6d86a38bd@77.110.111.18:443?type=tcp&encryption=none&security=reality&pbk=G8atnmczEJPNW9UO6E110PLdZVA0CKojysMxe93VLXk&fp=firefox&sni=google.com&sid=2fb94937d19b&spx=%2F#Netherlands%E2%84%962-vpnsafebot

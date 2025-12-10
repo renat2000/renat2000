@@ -1,1 +1,1 @@
-vless://35279724-0a10-4d0d-b0d9-6fc6d86a38bd@77.110.111.18:443?type=tcp&encryption=none&security=reality&pbk=HvPObfCTvxJcMw_flTZL0y7N-YCFJoC-XX39H7MFgzU&fp=firefox&sni=sun6-22.userapi.com&sid=7a119332b6c21320&spx=%2F#Netherlands%E2%84%962-vpnsafebot
+vless://1f485958-47c2-4b3e-ae6f-a00aecd3be15@77.110.111.18:443?type=tcp&encryption=none&security=reality&pbk=HvPObfCTvxJcMw_flTZL0y7N-YCFJoC-XX39H7MFgzU&fp=firefox&sni=sun6-22.userapi.com&sid=7a119332b6c21320&spx=%2F&flow=xtls-rprx-vision#Netherlands%E2%84%962-vpnsafebot2

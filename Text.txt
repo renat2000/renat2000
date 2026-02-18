@@ -1,1 +1,1 @@
-vless://9ec1fe05-8b98-4f1f-88c3-c62bbddf133b@de2.techdatacloud.org:443?type=tcp&encryption=none&security=reality&pbk=fG6SFFTq3r050iClwysGSIKALW652dN-PxX0Jh5izws&fp=chrome&sni=yandex.com&sid=1b6d05688472&spx=%2F&flow=xtls-rprx-vision#Germany%E2%84%962-vpnsafebot
+vless://72b97489-40bd-4484-bb9c-d2c001b3d4b4@de2.techdatacloud.org:443?type=tcp&encryption=none&security=reality&pbk=fG6SFFTq3r050iClwysGSIKALW652dN-PxX0Jh5izws&fp=chrome&sni=yandex.com&sid=1b6d05688472&spx=%2F&flow=xtls-rprx-vision#Germany%E2%84%962-vpnsafebot2

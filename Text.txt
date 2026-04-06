@@ -1,1 +1,1 @@
-trojan://INMXKnfgQj@fi2.techdatacloud.org:33179?type=tcp&security=reality&pbk=kS5F5pn_p5jscXXe7KFHI27D4rlXUWIw05Gjj83VKAE&fp=chrome&sni=cloud.mail.ru&sid=0012&spx=%2F#Finland%20%E2%84%962-vpnsafe
+trojan://7656aaf9-3d2a-4ad9-9410-0c086a84388e@at.techdatacloud.org:8443?security=reality&pbk=IE34qkKlrAz_rGIrr7Bzm5WEuO0S9xwW1M_w8LPsyEM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.com&sid=ec73337d#AT-Vienna-01%20%C2%B7%20Reserve

@@ -1,1 +1,1 @@
-trojan://7656aaf9-3d2a-4ad9-9410-0c086a84388e@at.techdatacloud.org:8443?security=reality&pbk=IE34qkKlrAz_rGIrr7Bzm5WEuO0S9xwW1M_w8LPsyEM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.com&sid=ec73337d#AT-Vienna-01%20%C2%B7%20Reserve
+vless://7656aaf9-3d2a-4ad9-9410-0c086a84388e@de4.techdatacloud.org:443?security=reality&encryption=none&pbk=DlpZIiREU0XMiJYKkQ5TzOHE5BJzt4lXAy08csibJVo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f7d030f2#DE-Nurnberg-02

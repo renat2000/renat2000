@@ -1,1 +1,1 @@
-trojan://7656aaf9-3d2a-4ad9-9410-0c086a84388e@85.198.64.219:8443?security=reality&pbk=WmDWSiRjqhmIKfEvCpL8CdAe3F0W5z0OS_xDH0s4wEU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.com&sid=58e51fea#%F0%9F%8C%90%20MULTI%20%5BDE%20EE%20SE%20NL%5D-01%20%C2%B7%20Reserve
+trojan://7656aaf9-3d2a-4ad9-9410-0c086a84388e@ca.techdatacloud.org:8443?security=reality&pbk=wC19ZBhJq3esNJKD38Nx_CBze4GbCQ6Bk_yb8hupbw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.com&sid=8f8699b4#CA-Toronto-01%20%C2%B7%20Reserve

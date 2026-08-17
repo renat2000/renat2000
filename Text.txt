@@ -1,1 +1,1 @@
-vless://7656aaf9-3d2a-4ad9-9410-0c086a84388e@de.techdatacloud.org:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=UfqrNRXfz_KWr-NkPgJkcj1eRaq52xdNxgXV5XoRek4&fp=firefox&spx=%2F&type=xhttp&sni=storage.yandex.net&sid=648c261a#DE-Frankfurt-01
+vless://7656aaf9-3d2a-4ad9-9410-0c086a84388e@de3.techdatacloud.org:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=UfqrNRXfz_KWr-NkPgJkcj1eRaq52xdNxgXV5XoRek4&fp=firefox&spx=%2F&type=xhttp&sni=cloud.mail.ru&sid=648c261a#DE-Frankfurt-02

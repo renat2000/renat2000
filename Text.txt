@@ -1,1 +1,1 @@
-vless://05160154-7aa1-4082-a45f-2dab99b21b69@de.noode.work:443?security=reality&encryption=none&pbk=6vDdlh4aAipoRQ-IXDjzTUtKpZS09xtNXIisCa__2CM&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=johnydeep.net&sid=f74c6a18133e2e72#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://7656aaf9-3d2a-4ad9-9410-0c086a84388e@157.228.135.107:8443?security=reality&pbk=yYuGh2hDcWNGJ4Plk81KbDyyp5fmgm4iBMVb0KSiVE0&headerType=none&fp=edge&spx=%2F&type=tcp&sni=cloud.mail.ru&sid=5b3c9d71#DE-Frankfurt-01%20%C2%B7%20Reserve
